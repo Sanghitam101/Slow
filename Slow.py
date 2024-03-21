@@ -8,6 +8,6 @@ def login():
     if username in users and users[username] == passw>
         print("SELAMAT DATADNG")
     else:
-        print("Invalid username or password. Please t>
+        print("Invalid username or password. Please ")
 
 
